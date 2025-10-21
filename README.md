@@ -23,6 +23,10 @@ NFO files were first introduced by "Fabulous Furlough" of the elite PC warez org
 
 The Humble Guys later became a [demogroup](https://en.wikipedia.org/wiki/Demogroup), thus bringing the .nfo file tradition into the demoscene. More than forty thousand demoscene productions have an NFO file next to the program file.
 
-
+### Typical Files:
+* [README](https://en.wikipedia.org/wiki/README)
+* [FILE_ID.DIZ](https://en.wikipedia.org/wiki/FILE_ID.DIZ)
+* [The iSONEWS](https://en.wikipedia.org/wiki/The_iSONEWS)
+* [.sfv](https://en.wikipedia.org/wiki/Simple_file_verification) - Simple file verification
 
 
