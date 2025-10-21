@@ -18,3 +18,11 @@ NFOPad is a small, fast, and flexible NFO viewer and text editor. It's a clone o
 
 Files with the NFO file extension are often generic ASCII text files that can be viewed with a simple text editor, for example. This usually allows you to display most of the information contained in the NFO file. However, since NFO files are often embellished with ASCII art, and the graphics and control characters used for this cannot be displayed correctly in a standard text editor, using an NFO file viewer is recommended.
 
+### History:
+NFO files were first introduced by "Fabulous Furlough" of the elite PC warez organization called [The Humble Guys](https://en.wikipedia.org/wiki/The_Humble_Guys), or THG. The THG group would first upload their package to their world headquarters, "Candyland BBS" or later "The P.I.T.S. BBS", to establish distribution immediately. Such organizations are also known as warez groups or crack groups. The first use came in 1990 on the THG release of the PC game Knights of Legend. This file was used in lieu of the more common README.TXT or README.1ST file names. The perpetuation of this file extension legacy was carried on by warez groups which followed after THG and is still in use to this day. Hence its strong presence on Usenet newsgroups that carry binaries and on P2P file trading networks.
+
+The Humble Guys later became a [demogroup](https://en.wikipedia.org/wiki/Demogroup), thus bringing the .nfo file tradition into the demoscene. More than forty thousand demoscene productions have an NFO file next to the program file.
+
+
+
+
