@@ -50,9 +50,9 @@ The primary strength of TrueType was originally that it offered font developers 
   * AMIGA Topaz 500 / 600 / 1000 / 1200 / 2000
   * AMIGA Topaz Plus 500 / 1000 / 2000
   * AMIGA Topaz Plus 600 / 1200 / 4000
-* ACER,
-* ACM,
-* AMI,
+* [ACER](https://en.wikipedia.org/wiki/Acer_Inc.)
+* [ACM](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery)
+* [AMI](https://en.wikipedia.org/wiki/American_Megatrends)
 * Amstrad,
 * Apricot,
 * AST Premium,
