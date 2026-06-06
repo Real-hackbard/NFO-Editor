@@ -223,7 +223,12 @@ A computer console also known as a terminal or command line is a text window tha
   * zx81
   * zx Spectrum
 
+</br>
 
+# TEncoding
+The TEncoding class was introduced in Delphi 2009 (codename Tiburon) as part of the fundamental shift to Unicode strings. Since then, TEncoding has served within the Runtime Library (RTL) to convert text into various character encodings (such as UTF-8, UTF-16, or ANSI).
+
+If you want to use an older version of Delphi, you must remove TEncoding; however, Unicode export will then cease to work, and some foreign languages ​​will no longer be displayed.
 
 
 
