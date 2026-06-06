@@ -85,6 +85,8 @@ begin
 end;
 ```
 
+When the program is closed, the fonts still appear in the Windows dialog but are no longer available. The update is not complete until the system cache has been cleared or the system has been restarted.
+
 </br>
 
 ### Add custom TrueType fonts
