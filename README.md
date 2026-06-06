@@ -57,8 +57,16 @@ The primary strength of TrueType was originally that it offered font developers 
 * [Apricot](https://en.wikipedia.org/wiki/Apricot_Computers)
 * [AST Premium](https://en.wikipedia.org/wiki/AST_Research)
 * [CL Stingray](https://en.wikipedia.org/wiki/Stingray_Classica)
-* Compaq,
-* Comodore,
+* [Compaq](https://en.wikipedia.org/wiki/Compaq)
+* [Comodore](https://en.wikipedia.org/wiki/Commodore_64)
+  * Comodore C-16
+  * Comodore VC-20
+  * Comodore C-64
+    * C-64
+    * C-64 Mono
+    * C-64 Elite Mono
+  * Comodore plus/4
+  * Comodore C-128
 * Compis,
 * Cordata,
 * DG One,
