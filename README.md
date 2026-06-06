@@ -15,6 +15,8 @@ NFOPad is a small, fast, and flexible NFO viewer and text editor. It's a clone o
 
 </br>
 
+<img src="https://github.com/user-attachments/assets/c5376243-f2f2-4bef-95b2-466698d9f7b7" />
+
 </br>
 
 Export : Unicode, txt; nfo; bitmap;
