@@ -44,7 +44,12 @@ The primary strength of TrueType was originally that it offered font developers 
   * ATARI Classic Chunky
   * ATARI Classic Smoooth
   * ATARI Classic Extrasmooth
-* AMIGA,
+* [AMIGA](https://en.wikipedia.org/wiki/Amiga)
+  * AMIGA Micro Kniights 500
+  * AMIGA Micro Kniights 500 Plus
+  * AMIGA Topaz 500 / 600 / 1000 / 1200 / 2000
+  * AMIGA Topaz Plus 500 / 1000 / 2000
+  * AMIGA Topaz Plus 600 / 1200 / 4000
 * ACER,
 * ACM,
 * AMI,
