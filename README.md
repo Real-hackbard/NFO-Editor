@@ -11,7 +11,7 @@
 
 </br>
 
-NFOPad is a small, fast, and flexible NFO viewer and text editor. It's a clone of Microsoft Notepad, but with extra settings and support for NFO files. TXT and NFO files can be assigned different fonts for optimal display. Unicode is also fully supported.
+NFO-Editor is a small, fast, and flexible NFO viewer and text editor. It's a clone of Microsoft Notepad, but with extra settings and support for NFO files. TXT and NFO files can be assigned different fonts for optimal display. Unicode is also fully supported.
 
 </br>
 
