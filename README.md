@@ -129,6 +129,10 @@ end;
 </br>
 
 # Simulate Consoles:
+A computer console also known as a terminal or command line is a text window that allows you to interact directly with the operating system using typed commands. It dispenses entirely with graphical elements such as windows, icons, or mouse pointers.
+
+</br>
+
 * [Atari](https://en.wikipedia.org/wiki/Atari_ST)
   * ATARI Classic
   * ATARI Classic Chunky
