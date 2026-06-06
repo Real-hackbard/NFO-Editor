@@ -96,13 +96,18 @@ The primary strength of TrueType was originally that it offered font developers 
      * IBM VGA 9x8
      * IBM VGA 9x16
   * IBM XGA
-* ITT,
-* Master,
-* NEC,
-* Nix,
-* Olivetti,
-* PET,
-* Philips,
+* [ITT](https://en.wikipedia.org/wiki/ITT_Inc.)
+* [BBC Master](https://en.wikipedia.org/wiki/BBC_Master)
+* [NEC](https://en.wikipedia.org/wiki/NEC)
+* [Nix](https://commons.wikimedia.org/wiki/File:Nixdorf_PC_8810-25_-_Front.jpg)
+* [Olivetti](https://en.wikipedia.org/wiki/Olivetti_computers)
+* [PET](https://en.wikipedia.org/wiki/Commodore_PET)
+  * PET Me 2x
+  * PET Me 2y
+  * PET Me 64
+  * PET Me 64 2y
+  * PET Me 128 2y
+* [Philips](https://en.wikipedia.org/wiki/Philips_Computers)
 * Phönix,
 * Rainbow,
 * RM Nimbus,
