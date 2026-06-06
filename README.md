@@ -53,10 +53,10 @@ The primary strength of TrueType was originally that it offered font developers 
 * [ACER](https://en.wikipedia.org/wiki/Acer_Inc.)
 * [ACM](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery)
 * [AMI](https://en.wikipedia.org/wiki/American_Megatrends)
-* Amstrad,
-* Apricot,
-* AST Premium,
-* CL Stingray
+* [Amstrad](https://en.wikipedia.org/wiki/Amstrad_CPC)
+* [Apricot](https://en.wikipedia.org/wiki/Apricot_Computers)
+* [AST Premium](https://en.wikipedia.org/wiki/AST_Research)
+* [CL Stingray](https://en.wikipedia.org/wiki/Stingray_Classica)
 * Compaq,
 * Comodore,
 * Compis,
