@@ -233,5 +233,23 @@ The TEncoding class was introduced in Delphi 2009 (codename Tiburon) as part of 
 
 If you want to use an older version of Delphi, you must remove TEncoding; however, Unicode export will then cease to work, and some foreign languages ​​will no longer be displayed.
 
+* If you want to convert the strings into bytes using a specific encoding (e.g., UTF-8), you can do so like this…
+
+</br>
+
+```pascal
+uses
+  System.SysUtils;
+
+procedure ConvertStringToBytes;
+var
+  MyString: string;
+  MyBytes: TBytes;
+begin
+  MyString := 'Hello Delphi!';
+  MyBytes := TEncoding.UTF8.GetBytes(MyString);
+  // Do something with MyBytes...
+end;
+```
 
 
