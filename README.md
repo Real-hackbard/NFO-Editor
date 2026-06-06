@@ -108,11 +108,11 @@ The primary strength of TrueType was originally that it offered font developers 
   * PET Me 64 2y
   * PET Me 128 2y
 * [Philips](https://en.wikipedia.org/wiki/Philips_Computers)
-* Phönix,
-* Rainbow,
-* RM Nimbus,
-* Robotron,
-* Sanyo,
+* [Phönix](https://en.wikipedia.org/wiki/Phoenix_(computer))
+* [Rainbow](https://en.wikipedia.org/wiki/Rainbow_100)
+* [RM Nimbus](https://en.wikipedia.org/wiki/RM_Nimbus)
+* [Robotron](https://en.wikipedia.org/wiki/PC_1715)
+* [Sanyo](https://en.wikipedia.org/wiki/Sanyo_MBC-550_series)
 * Sharp,
 * Siemens,
 * Sigma,
