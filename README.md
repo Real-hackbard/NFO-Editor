@@ -37,7 +37,11 @@ TrueType is an [outline font](https://en.wikipedia.org/wiki/Computer_font#Outlin
 The primary strength of TrueType was originally that it offered font developers a high degree of control over precisely how their fonts are displayed, right down to particular pixels, at various font sizes. With widely varying rendering technologies in use today, pixel-level control is no longer certain in a TrueType font.
 
 # Simulate Consoles:
-* Atari,
+* [Atari](https://en.wikipedia.org/wiki/Atari_ST)
+  * ATARI Classic
+  * ATARI Classic Chunky
+  * ATARI Classic Smoooth
+  * ATARI Classic Extrasmooth
 * AMIGA,
 * ACER,
 * ACM,
