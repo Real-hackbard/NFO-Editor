@@ -34,7 +34,7 @@ The Humble Guys later became a [demogroup](https://en.wikipedia.org/wiki/Demogro
 * [.sfv](https://en.wikipedia.org/wiki/Simple_file_verification) - Simple file verification
 
 # TrueType:
-TrueType is an [outline font](https://en.wikipedia.org/wiki/Computer_font#Outline_fonts) standard developed by Apple in the late 1980s as a competitor to Adobe's [Type 1](https://en.wikipedia.org/wiki/PostScript_fonts#Type_1) fonts used in PostScript. It has become the most common format for fonts on the classic Mac OS, macOS, and Microsoft Windows operating systems.
+[TrueType](https://en.wikipedia.org/wiki/TrueType) is an [outline font](https://en.wikipedia.org/wiki/Computer_font#Outline_fonts) standard developed by Apple in the late 1980s as a competitor to Adobe's [Type 1](https://en.wikipedia.org/wiki/PostScript_fonts#Type_1) fonts used in PostScript. It has become the most common format for fonts on the classic Mac OS, macOS, and Microsoft Windows operating systems.
 
 The primary strength of TrueType was originally that it offered font developers a high degree of control over precisely how their fonts are displayed, right down to particular pixels, at various font sizes. With widely varying rendering technologies in use today, pixel-level control is no longer certain in a TrueType font.
 
