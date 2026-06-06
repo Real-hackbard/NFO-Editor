@@ -40,7 +40,7 @@ The primary strength of TrueType was originally that it offered font developers 
 
 When a TrueType font is selected, the font file is not installed on the system; instead, it is loaded into memory as a resource and removed when the program terminates.
 
-* ### Add TrueType
+* ### Add TrueType to Memory
 
 ```pascal
 function RegisterFont(Datei: String): String;
@@ -75,7 +75,7 @@ begin
  end;
 ```
 
-* ### Remove TrueType
+* ### Remove TrueType from Memory
 
 ```pascal
 function RemoveFont(Datei:String): boolean;
