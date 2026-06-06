@@ -38,6 +38,55 @@ TrueType is an [outline font](https://en.wikipedia.org/wiki/Computer_font#Outlin
 
 The primary strength of TrueType was originally that it offered font developers a high degree of control over precisely how their fonts are displayed, right down to particular pixels, at various font sizes. With widely varying rendering technologies in use today, pixel-level control is no longer certain in a TrueType font.
 
+When a TrueType font is selected, the font file is not installed on the system; instead, it is loaded into memory as a resource and removed when the program terminates.
+
+* ### Add TrueType
+
+```pascal
+function RegisterFont(Datei: String): String;
+ { First, create an FOT file, and then install it. }
+var
+  FotName: String;
+  bErg: Boolean;
+  iErg: Integer;
+  a, b: Array[0..128] of Char;
+begin
+  Result:='';
+  // rename font file
+  FotName:=ChangeFileExt(Datei, '.FOT');
+  StrPCopy(A,FotName);  StrPCopy(B, Datei);
+  // check if file exists
+  if not fileExists(Fotname) then
+    bErg:=CreateScalableFontResource(0, a, b, '')
+      else
+    bErg:=true;
+
+  if bErg then
+  begin
+    // create the font resource
+    iErg:=AddFontResource(A);
+    if iErg>0 then
+    begin
+      //
+      SendMessage(hwnd_broadcast, wm_fontchange, 0,0);
+      Result:=FotName;
+    end;
+  end;
+ end;
+```
+
+* ### Remove TrueType
+
+```pascal
+function RemoveFont(Datei:String): boolean;
+begin
+  result:=RemoveFontResource(PChar(Datei));
+  SendMessage(hwnd_broadcast, wm_fontchange, 0, 0);
+end;
+```
+
+</br>
+
 # Simulate Consoles:
 * [Atari](https://en.wikipedia.org/wiki/Atari_ST)
   * ATARI Classic
