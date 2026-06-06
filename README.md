@@ -118,12 +118,14 @@ The primary strength of TrueType was originally that it offered font developers 
 * [Sigma](https://en.wikipedia.org/wiki/SDS_Sigma_series)
 * [Tandy](https://en.wikipedia.org/wiki/Tandy_1000)
 * [Toshiba](https://en.wikipedia.org/wiki/Toshiba)
-* Trident,
-* TsengEVA,
-* Early,
-* Wyse,
-* Zenith,
-* ZX Sinclair
+* [Trident](https://en.wikipedia.org/wiki/Trident_Microsystems)
+* [TsengEVA](https://en.wikipedia.org/wiki/Tseng_Labs)
+* Early
+* [Wyse](https://de.wikipedia.org/wiki/Wyse_Technology)
+* [Zenith](https://en.wikipedia.org/wiki/Zenith_Z-100)
+* [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum)
+  * zx81
+  * zx Spectrum
 
 
 
