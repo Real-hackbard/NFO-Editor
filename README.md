@@ -18,7 +18,7 @@ NFOPad is a small, fast, and flexible NFO viewer and text editor. It's a clone o
 
 </br>
 
-Export : txt; nfo; bitmap;
+Export : Unicode, txt; nfo; bitmap;
 
 Files with the NFO file extension are often generic ASCII text files that can be viewed with a simple text editor, for example. This usually allows you to display most of the information contained in the NFO file. However, since NFO files are often embellished with ASCII art, and the graphics and control characters used for this cannot be displayed correctly in a standard text editor, using an NFO file viewer is recommended.
 
@@ -113,11 +113,11 @@ The primary strength of TrueType was originally that it offered font developers 
 * [RM Nimbus](https://en.wikipedia.org/wiki/RM_Nimbus)
 * [Robotron](https://en.wikipedia.org/wiki/PC_1715)
 * [Sanyo](https://en.wikipedia.org/wiki/Sanyo_MBC-550_series)
-* Sharp,
-* Siemens,
-* Sigma,
-* Tandy,
-* Toshiba,
+* [Sharp](https://en.wikipedia.org/wiki/Sharp_PC-4500)
+* [Siemens Nixdorf](https://en.wikipedia.org/wiki/Nixdorf_Computer)
+* [Sigma](https://en.wikipedia.org/wiki/SDS_Sigma_series)
+* [Tandy](https://en.wikipedia.org/wiki/Tandy_1000)
+* [Toshiba](https://en.wikipedia.org/wiki/Toshiba)
 * Trident,
 * TsengEVA,
 * Early,
