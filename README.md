@@ -102,7 +102,7 @@ begin
       // been added to or removed from the system.
       SendMessage(HWND_BROADCAST,WM_FONTCHANGE,0,0);
 
-      // The TFont variable that must be declared in the upper part of the project: myFont := TFont;
+      // The TFont variable that must be declared in the upper part of the project: myFont : TFont;
       // The name must match the name of the TrueType font.
       // Open the TrueType file, and the actual name appears in the top left corner.
       myFont.Name := 'Px437 NEC APC3 8x16';
