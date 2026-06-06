@@ -67,15 +67,15 @@ The primary strength of TrueType was originally that it offered font developers 
     * C-64 Elite Mono
   * Comodore plus/4
   * Comodore C-128
-* Compis,
-* Cordata,
-* DG One,
-* Eagle SP,
-* Epson,
-* Euro PC,
-* Everex,
-* FM Towns,
-* HP,
+* [Compis](https://en.wikipedia.org/wiki/Compis)
+* [Cordata](https://en.wikipedia.org/wiki/Corona_Data_Systems)
+* [DG One](https://en.wikipedia.org/wiki/Data_General/One)
+* [Eagle SP](https://en.wikipedia.org/wiki/Eagle_Computer)
+* [Epson](https://en.wikipedia.org/wiki/Epson)
+* [Euro PC](https://en.wikipedia.org/wiki/Schneider_Euro_PC)
+* [Everex](https://en.wikipedia.org/wiki/Everex)
+* [FM Towns](https://en.wikipedia.org/wiki/FM_Towns)
+* [HP](https://en.wikipedia.org/wiki/HP_Series_80)
 * IBM,
 * ITT,
 * Master,
