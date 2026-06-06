@@ -76,7 +76,26 @@ The primary strength of TrueType was originally that it offered font developers 
 * [Everex](https://en.wikipedia.org/wiki/Everex)
 * [FM Towns](https://en.wikipedia.org/wiki/FM_Towns)
 * [HP](https://en.wikipedia.org/wiki/HP_Series_80)
-* IBM,
+* [IBM](https://en.wikipedia.org/wiki/IBM_Personal_Computer)
+  * IBM 3270
+    * IBM BIOS
+    * IBM CGA
+    * IBM CGA thin
+  * IBM DOS ISO 8
+    * IBM DOS ISO 8-2
+    * IBM DOS ISO 9
+  * IBM EGA
+    * IBM EGA 2
+    * IBM MDA
+    * IBM Model 3
+    * IBM Model 3-0
+    * IBM PGC
+    * IBM PGC-2
+    * IBM PS-55
+  * IBM VGA
+     * IBM VGA 9x8
+     * IBM VGA 9x16
+  * IBM XGA
 * ITT,
 * Master,
 * NEC,
