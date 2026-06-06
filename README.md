@@ -120,7 +120,7 @@ begin
       Memo1.Font.Color := clLime;
     except
       on E: Exception do
-        ShowMessage(E.Message); // Windows Error Mesasage when file missed
+        ShowMessage(E.Message); // Windows Error Message when file missed
     end;
   myFont.Free;
 end;
