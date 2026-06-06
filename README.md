@@ -87,6 +87,47 @@ end;
 
 </br>
 
+### Add custom TrueType fonts
+You can also integrate your own TrueType file in a few simple steps.
+
+```pascal
+begin
+  // Create font address in RAM
+  myFont := TFont.Create; 
+    try
+      // Load TrueType file in RAM
+      AddFontResource(PChar('myTrueType.ttf'));
+
+      // serves to notify all open Windows applications that fonts have
+      // been added to or removed from the system.
+      SendMessage(HWND_BROADCAST,WM_FONTCHANGE,0,0);
+
+      // The TFont variable that must be declared in the upper part of the project: myFont := TFont;
+      // The name must match the name of the TrueType font.
+      // Open the TrueType file, and the actual name appears in the top left corner.
+      myFont.Name := 'Px437 NEC APC3 8x16';
+
+      // Initialize the TrueType fonts for the memo box.
+      Memo1.Font := myFont;
+
+      // Since there were no lowercase letters on consoles in the past, everything here is capitalized.
+      Memo1.CharCase := ecUpperCase;
+      
+      // Memo Background Color
+      Memo1.Color := clBlack;
+
+      // Memo Font Color
+      Memo1.Font.Color := clLime;
+    except
+      on E: Exception do
+        ShowMessage(E.Message); // Windows Error Mesasage when file missed
+    end;
+  myFont.Free;
+end;
+```
+
+</br>
+
 # Simulate Consoles:
 * [Atari](https://en.wikipedia.org/wiki/Atari_ST)
   * ATARI Classic
